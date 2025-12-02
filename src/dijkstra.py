@@ -1,4 +1,5 @@
-"""AUTOR: ASHLEY DAYANE ALFARO AGUILAR 
+#AUTOR: ASHLEY DAYANE ALFARO AGUILAR 
+"""
 Implementación del algoritmo de Dijkstra para rutas más cortas.
 
 Genera el archivo PNG: dijkstra_paths.png
