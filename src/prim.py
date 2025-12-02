@@ -1,4 +1,5 @@
-"""AUTOR: ASHLEY DAYANE ALFARO AGUILAR 
+#AUTOR: ASHLEY DAYANE ALFARO AGUILAR 
+"""
 Implementación del algoritmo de Prim para Árbol de Expansión Mínima (MST).
 
 Genera el archivo PNG: prim_mst.png
