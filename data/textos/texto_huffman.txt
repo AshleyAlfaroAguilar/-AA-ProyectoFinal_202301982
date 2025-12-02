@@ -1,0 +1,4 @@
+La codificación de Huffman es un método de compresión sin pérdida que asigna códigos más cortos a los símbolos más frecuentes y códigos más largos a los símbolos menos frecuentes.
+En este archivo de texto se incluyen espacios, comas, puntos, letras mayúsculas y minúsculas, para que el árbol generado sea más complejo.
+El objetivo es que las y los estudiantes analicen las frecuencias de cada carácter y construyan una tabla de códigos binarios eficiente.
+Adicional agregamos caracteres especiales 		//..'';;;';.!@#$%^&*()^#$@!$@%^&*^()$#@!~%$@^&*(()_(*&^%#$@!«»»«»«×«»'
