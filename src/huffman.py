@@ -1,4 +1,5 @@
-"""AUTOR: ASHLEY DAYANE ALFARO AGUILAR
+#AUTOR: ASHLEY DAYANE ALFARO AGUILAR
+"""
 Implementación del algoritmo de Huffman para codificación óptima.
 
 Genera:
