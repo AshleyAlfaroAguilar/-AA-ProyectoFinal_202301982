@@ -1,4 +1,5 @@
-"""AUTOR: ASHLEY DAYANE ALFARO AGUILAR  
+#AUTOR: ASHLEY DAYANE ALFARO AGUILAR
+"""  
 Implementación del algoritmo de Kruskal para Árbol de Expansión Mínima (MST).
 
 Genera el archivo PNG: kruskal_mst.png

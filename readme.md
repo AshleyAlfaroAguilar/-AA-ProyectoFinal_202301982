@@ -1,6 +1,7 @@
 # Proyecto Final – Implementación y Visualización de Algoritmos Avanzados  
 ### Curso: Análisis de Algoritmos  
 ### Universidad Da Vinci de Guatemala 
+
 **Estudiante:** Ashley Dayane Alfaro Aguilar  
 **Carné:** 202301982  
 **Fecha:** 1 de diciembre del 2025 
